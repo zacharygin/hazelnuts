@@ -1,0 +1,41 @@
+provinces:
+  - name: Ordu
+    lat: 40.98
+    lon: 37.88
+    weight: 0.311
+    elevation_band: mid
+  - name: Giresun
+    lat: 40.91
+    lon: 38.39
+    weight: 0.163
+    elevation_band: mid
+  - name: Samsun
+    lat: 41.29
+    lon: 36.33
+    weight: 0.141
+    elevation_band: mid
+  - name: Sakarya
+    lat: 40.74
+    lon: 30.40
+    weight: 0.128
+    elevation_band: high
+  - name: Düzce
+    lat: 40.84
+    lon: 31.16
+    weight: 0.107
+    elevation_band: mid
+  - name: Trabzon
+    lat: 41.00
+    lon: 39.72
+    weight: 0.061
+    elevation_band: low
+
+# "Other" (8.9%) is excluded — no representative point available.
+# Weights sum to 0.911; frost.py normalises by TOTAL_W so this is handled correctly.
+
+era5_bounding_box:
+  # [north, west, south, east]
+  north: 42.0
+  west: 29.0
+  south: 40.0
+  east: 41.0

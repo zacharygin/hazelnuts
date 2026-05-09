@@ -1,0 +1,12 @@
+asset,label,std_coef,role
+cocoa_usd,Cocoa futures,0.0017690024452272086,tradeable
+nestle_usd,Nestlé ADR,0.0017089727975619106,tradeable
+tur_usd,TUR ETF,0.0010676703740185435,tradeable
+ulker_try,Ülker (TRY),0.0009193380552119432,tradeable
+dba_usd,DBA Ag ETF,0.0007420439476357138,tradeable
+hershey_usd,Hershey,0.0006461456548994749,tradeable
+mdlz_usd,Mondelēz,0.00037790945238173407,tradeable
+bunge_usd,Bunge,0.00036206549110565436,tradeable
+barry_chf,Barry Callebaut,0.00012701083500350915,tradeable
+lindt_chf,Lindt & Sprüngli,3.1369753527755984e-05,tradeable
+tryusd,TRY/USD (spot),-0.0010927492093264256,tradeable

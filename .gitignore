@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Large binary data
+data/raw/era5/
+data/raw/era5_monthly/
+**/*.nc
+
+# Scraped raw HTML/PDF
+hazelnut_basket_scrape/data/raw/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# Env
+.env
+*.env

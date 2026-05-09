@@ -1,0 +1,45 @@
+# Hazelnut insurance — notebook + pipeline dependencies
+# Python 3.11+
+
+# Core data
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Scraping / HTTP
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Finance / FX data
+yfinance>=0.2.40
+pandas-datareader>=0.10.0
+
+# ML
+scikit-learn>=1.4.0
+
+# Climate data
+cdsapi>=0.7.7
+xarray>=2024.0.0
+netCDF4>=1.6.0
+h5netcdf>=1.3.0
+
+# Config
+pyyaml>=6.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.29.0
+nbconvert>=7.0.0
+
+# FAO data
+faostat>=2.1.0
+
+# Misc
+tqdm>=4.66.0
+openpyxl>=3.1.0
