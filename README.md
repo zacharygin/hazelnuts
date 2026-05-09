@@ -1,4 +1,4 @@
-File is structured by directory and goes through several of the relevant files. 
+File is structured by directory and goes through several of the relevant files. Also I'm realizing that my scraping scripts are kinda all over the place. sorry
 
 Hazelnut-insurance
 
